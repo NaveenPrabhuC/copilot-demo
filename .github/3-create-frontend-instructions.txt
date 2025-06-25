@@ -1,0 +1,23 @@
+# Step 1: Create a new folder named 'client' in the project root.
+# All frontend-related files should be placed inside this folder.
+
+# Step 2: Build a user interface using React that includes:
+# - A dropdown or selection list for days of the week.
+# - A dropdown or selection list for airports.
+
+# Step 3: When the user selects a day and an airport:
+# - Call the backend API endpoint created earlier, passing the selected day_of_week_id and airport_id as parameters.
+# - Fetch the flight delay probability and confidence score from the API.
+
+# Step 4: Display the API response clearly to the user in the UI,
+# showing the chance of delay and confidence percentage.
+
+# Please generate complete React code including:
+# - Necessary imports and component setup
+# - Functional components or hooks for managing state and effects
+# - Dropdown components for user selections
+# - API call logic with async/await and error handling
+# - JSX for displaying results dynamically
+# - Basic styling for a clean, user-friendly interface
+
+# Place all files inside the 'client' folder.

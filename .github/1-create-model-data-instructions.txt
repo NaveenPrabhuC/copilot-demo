@@ -1,0 +1,17 @@
+# Step 1: Create a new Jupyter notebook named manage-flight-data.ipynb in the root of the project.
+
+# Step 2: Load the flight delay dataset and perform data cleansing:
+# - Identify columns with null values.
+# - Replace all null values with zero.
+
+# Step 3: Create a machine learning model that predicts the probability that a flight will be delayed by more than 15 minutes.
+# - Use features such as day of the week and airport ID.
+# - Train the model on the cleaned dataset.
+
+# Step 4: Save the trained model to a file for use in an external application.
+# - Use a serialization method like joblib or pickle.
+
+# Step 5: Extract all unique airport names and their associated IDs from the dataset.
+# - Save this information into a new CSV file for later use.
+
+# Please generate Python code to accomplish these tasks step-by-step, including necessary imports, data loading, preprocessing, model training, saving, and exporting airport data.

@@ -1,0 +1,9 @@
+This project guides learners through building a complete AI-assisted web application in three steps:
+
+1. Creating and training a machine learning model using flight delay data, including data cleaning, feature extraction, and saving the model and related data files.
+2. Developing a backend API that exposes endpoints to serve model predictions and airport data, handling input parameters and returning JSON responses.
+3. Building a frontend application that consumes the API, displays flight delay probabilities, and provides a user-friendly interface for interaction.
+
+The goal is to demonstrate an end-to-end workflow from data preparation and modeling to API creation and frontend UI development, leveraging GitHub Copilot to assist with coding, prompt-driven development, and best practices across the stack.
+
+Generate code, comments, or documentation aligned with these stages, focusing on clarity, modularity, and practical usage of AI-assisted coding.

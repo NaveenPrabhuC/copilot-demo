@@ -1,0 +1,27 @@
+# Step 1: Create a new folder named 'server' in the project root.  
+# All generated API files should be placed inside this folder.
+
+# Step 2: Develop a backend API (using a Python web framework like Flask or FastAPI) with the following endpoints:
+
+# - Endpoint 1: Accepts two query parameters: 
+#   'day_of_week_id' (integer) and 'airport_id' (string).
+#   This endpoint should:
+#     * Load the pre-trained flight delay model.
+#     * Use the model to predict the probability that a flight will be delayed by more than 15 minutes for the given day and airport.
+#     * Return a JSON response containing:
+#       - The predicted delay probability (as a percentage).
+#       - The confidence score of the prediction.
+
+# - Endpoint 2: Returns a JSON list of all airport names and their associated IDs.
+#   The list should be sorted alphabetically by airport name.
+
+# Step 3: Ensure all responses are JSON-formatted with appropriate HTTP status codes.
+
+# Please generate the complete API server code, including:
+# - Necessary imports
+# - Loading the saved model and airport data
+# - Defining the API routes with request handling
+# - JSON response formatting
+# - Running the server on a specified port
+
+# Place all code files inside the 'server' folder.
