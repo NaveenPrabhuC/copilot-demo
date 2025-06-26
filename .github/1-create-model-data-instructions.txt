@@ -9,7 +9,7 @@
 # - Train the model on the cleaned dataset.
 
 # Step 4: Save the trained model to a file for use in an external application.
-# - Use a serialization method like joblib or pickle.
+# - Use a serialization method like pickle.
 
 # Step 5: Extract all unique airport names and their associated IDs from the dataset.
 # - Save this information into a new CSV file for later use.
